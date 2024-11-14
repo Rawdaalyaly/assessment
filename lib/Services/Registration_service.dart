@@ -20,7 +20,7 @@ class RegistrationService
   }
   catch(e)
   {
-    throw Exception('failed to load data $e');
+    throw Exception('failed $e');
   }
 }
 }
