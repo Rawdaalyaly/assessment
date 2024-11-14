@@ -20,7 +20,7 @@ class RegistrationService
   }
   catch(e)
   {
-    throw Exception('failed $e');
+    throw Exception('failed $e'); //hjhjh
   }
 }
 }
